@@ -1,4 +1,4 @@
-install.packages("use_this")
+install.packages("usethis")
 
 usethis::use_git_config(user.email = "rodrigomourav@gmail.com",
                         user.name=  "Rodrigo Viana")
